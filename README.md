@@ -4,7 +4,7 @@ RatBeats is a privacy-preserving, low-cost acoustic monitoring system powered by
 
 When a threat is confirmed, RatBeats bypasses complex cloud intermediaries and sends a real-time alert directly to the user's smartphone via the Telegram API.
 
-![RatBeats Prototipe](ratbeats.png) <!-- [AÑADIR IMAGEN: Sube la foto de la caja de MDF aquí] -->
+![RatBeats Prototipe](ratbeats.png)
 
 ## 🛠️ Hardware Requirements
 
@@ -22,7 +22,7 @@ The acoustic classification model was trained using the [Edge Impulse](https://e
 *   **Architecture:** 2D Convolutional Neural Network (CNN) quantized to INT8 precision.
 *   **Footprint:** 12.8 KB RAM / 40.2 KB Flash / 1 ms inference latency.
 
-![Diagrama de Arquitectura](Ruta_A_Tu_Diagrama.png) <!-- [AÑADIR IMAGEN: Sube el diagrama de la arquitectura de red o del flujo de datos aquí] -->
+![Architecture Diagram](diagram.png)
 
 ## Repository Structure
 
