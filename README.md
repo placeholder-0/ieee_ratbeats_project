@@ -4,7 +4,7 @@ RatBeats is a privacy-preserving, low-cost acoustic monitoring system powered by
 
 When a threat is confirmed, RatBeats bypasses complex cloud intermediaries and sends a real-time alert directly to the user's smartphone via the Telegram API.
 
-![Prototipo RatBeats](Ruta_A_Tu_Imagen_Del_Prototipo.jpg) <!-- [AÑADIR IMAGEN: Sube la foto de la caja de MDF aquí] -->
+![RatBeats Prototipe](ratbeats.png) <!-- [AÑADIR IMAGEN: Sube la foto de la caja de MDF aquí] -->
 
 ## 🛠️ Hardware Requirements
 
