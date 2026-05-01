@@ -6,7 +6,7 @@ When a threat is confirmed, RatBeats bypasses complex cloud intermediaries and s
 
 ![RatBeats Prototipe](ratbeats.png)
 
-## 🛠️ Hardware Requirements
+## Hardware Requirements
 
 *   **Microcontroller:** Seeed Studio XIAO ESP32-S3
 *   **Microphone:** INMP441 (I2S Omnidirectional Digital Microphone)
