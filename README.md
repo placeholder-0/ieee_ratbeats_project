@@ -57,4 +57,4 @@ To compile and upload the firmware to your XIAO ESP32-S3, follow these exact ste
 3. Click the **Upload** button (right arrow icon).
 4. Once successfully uploaded, go to **Tools > Serial Monitor** (set the baud rate to 115200). You will see the initialization process, Wi-Fi connection status, and real-time inference probabilities.
 
-If the 3-second moving average algorithm detects a rodent, you will immediately receive a notification on your configured Telegram chat! 📱
+If the 3-second moving average algorithm detects a rodent, you will immediately receive a notification on your configured Telegram chat.
